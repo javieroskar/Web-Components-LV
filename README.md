@@ -36,8 +36,8 @@ Git es un programa que guarda un historial de todos los cambios que se hacen a l
 Para obtener la URL en GitHub: entra a la página del repositorio, haz clic en el botón verde **"Code"**, y copia la URL que aparece (elige HTTPS si no usas llaves SSH).
 
 ```sh
-git clone https://github.com/tu-organizacion/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/javieroskar/Web-Components-LV.git
+cd Web-Components-LV
 ```
 
 ### 3. Revisar el estado de tus cambios
